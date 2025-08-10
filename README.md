@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer passionate about data science and Web Development. Currently pursuing MCA with a focus on data analysis, machine learning, and blockchain technologies. Seeking opportunities to apply skills in data-driven decision-making and predictive modeling. Let's connect and explore the possibilities!
+Aspiring Software Engineer passionate about data science and Web Development. Currently pursuing MCA with a focus on data analysis, machine learning, and Web Dev technologies. Seeking opportunities to apply skills in data-driven decision-making and predictive modeling. Let's connect and explore the possibilities!
 
 
 # Connect with me:
